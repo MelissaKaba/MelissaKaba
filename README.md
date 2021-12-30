@@ -2,6 +2,7 @@
 - 😍 I’m interested in everything about computers.
 - 🌱 I’m currently learning the basics of software engineering.
 - 📫 Email: kabalisamelissa2@gmail.com
+- 🐦 Twitter: https://www.twitter.com/123tweetmelissa
 
 <!---
 MelissaKaba/MelissaKaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
