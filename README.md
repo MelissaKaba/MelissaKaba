@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m @melistar
 - 😍 I’m interested in everything about computers.
-- 🌱 I’m currently learning the basics of software engineering.
+- 🌱 I’m currently learning web dev and software engineering.
 - 📫 Email: kabalisamelissa2@gmail.com
 - 🐦 Twitter: https://www.twitter.com/123tweetmelissa
 
