@@ -1,5 +1,5 @@
-- 👋🏾 Hi, I’m @melistar
-- 😍 I’m interested in everything about computers.
+- 😎 Hey, I’m @melistar
+- 😍 I’m fascinated by computers and software.
 - 🌱 I’m currently learning web dev and software engineering.
 - 📫 Email: kabalisamelissa2@gmail.com
 - 🐦 Twitter: https://www.twitter.com/123tweetmelissa
