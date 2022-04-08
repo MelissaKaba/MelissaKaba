@@ -1,4 +1,4 @@
-- 😎 Hey, I’m @melistar
+#** 😎 Hey, I’m Melistar**
 - 😍 I’m fascinated by computers and software.
 - 🌱 I’m currently learning web dev and software engineering.
 - 🖥 ... 
