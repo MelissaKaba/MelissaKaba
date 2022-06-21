@@ -1,4 +1,4 @@
-## Hey, I’m Melissa!😎
+# Hey, I’m Melissa!😎
 - 📚 I'm a sophomore at Rwanda Coding Academy.
 - 😍 I’m fascinated by computers and software. 
 - 🌱 I’m currently learning web dev and software engineering.
