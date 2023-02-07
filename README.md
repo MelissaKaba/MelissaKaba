@@ -1,9 +1,8 @@
 # Hey, I’m Melissa!😎
 - 📚 I'm a student at Rwanda Coding Academy.
 - 😍 I’m fascinated by computers and software. 
-- 🌱 Currently learning C++ and Java ☕ (😋 sweet, like a cuppa coffee...pun intended).
-- 🖥 I love collaborating on various projects. 
-- ⭐ 5-star creative mind with crazy puns.
+- 🌱 Currently loving C++ and Java ☕ (😋 sweet, like a cuppa coffee...pun intended).
+- 🖥 I am a⭐ 5-star collaborative creative mind with crazy puns.
 - 🗨️ Reach me here: 
 - 🐦 [Twitter](https://twitter.com/123tweetmelissa)
 - 📨 [Email](mailto:kabalisamelissa2@gmail.com)
