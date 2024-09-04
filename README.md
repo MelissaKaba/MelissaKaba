@@ -1,10 +1,9 @@
 # Hey, I’m Melissa!😎
-- 📚 I'm a senior student at Rwanda Coding Academy.
+- 📚 I'm a student at Smith College.
 - 😍 I’m fascinated by computers and software. 
 - 🖥 I am a⭐ 5-star collaborative creative mind with crazy puns.
 - 🗨️ Reach me here: 
-- 🐦 [Twitter](https://twitter.com/123tweetmelissa)
-- 📨 [Email](mailto:kabalisamelissa2@gmail.com)
+- 📨 [Email](mailto:mkabalisa@smith.edu)
 
 <!---
 melissa-mk/melissa-mk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
