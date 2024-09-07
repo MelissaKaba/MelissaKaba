@@ -2,7 +2,6 @@
 - 📚 I'm a student at Smith College.
 - 😍 I’m fascinated by computers and software. 
 - 🖥 I am a⭐ 5-star collaborative creative mind with crazy puns.
-- 🗨️ Reach me here: 
 - 📨 [Email](mailto:mkabalisa@smith.edu)
 
 <!---
